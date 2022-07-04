@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+  padding: 10px 5px;
+  border-bottom: 1px solid burlywood;
+  color: blueviolet;
+}
+
+.main-navigation ul {
+  display: inline-flex;
+}
+
+.main-navigation ul li {
+  border: none;
+  border-right: 1px solid olive;
+  padding: 5px 20px;
+}
+
+.main-navigation ul li a {
+  text-decoration: none;
+  color: brown;
+}
